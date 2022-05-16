@@ -1,0 +1,84 @@
+TABLE OF CONTENTS
+
+1 INTRODUCTION            
+	1.1 Purpose of this Practice Guide          
+	1.2 Need for this Practice Guide         
+	1.3 PMI’s Increased Focus on Business Analysis        
+	1.4 Intended Audience for the Guide        
+	1.5 What is Business Analysis?        
+	1.6 Who Performs Business Analysis?  
+	         
+		1.6.1 Skillset and Expertise Needed for the Business Analysis Role           
+		1.6.2 How Organizations Implement Business Analysis            
+		1.6.3 The Relationship Between the Project Manager, Business Analyst, and Other Roles          
+		1.6.4 The Need to Build the Relationships 
+
+	1.7 Definition of Requirement          
+		1.7.1 Who has the Responsibility for the Requirements?           
+		1.7.2 Requirement Types 
+
+	1.8 The Structure of the Practice Guide          
+		1.8.1 Section 2 on Needs Assessment          
+		1.8.2 Section 3 on Business Analysis Planning            
+		1.8.3 Section 4 on Requirements Elicitation and Analysis           
+		1.8.4 Section 5 on Traceability and Monitoring           
+		1.8.5 Section 6 on Solution Evaluation         
+
+/////////////
+
+2 NEEDS ASSESSMENT           
+	2.1 Overview of this Section           
+	2.2 Why Perform Needs Assessments           
+	2.3 Identify Problem or Opportunity 
+
+		2.3.1 Identify Stakeholders           
+		2.3.2 Investigate the Problem or Opportunity            
+		2.3.3 Gather Relevant Data to Evaluate the Situation          
+		2.3.4 Draft the Situation Statement           
+		2.3.5 Obtain Stakeholder Approval for the Situation Statement   
+
+	2.4 Assess Current State of the Organization          
+		2.4.1 Assess Organizational Goals and Objectives         
+			2.4.1.1 Goals and Objectives            
+			2.4.1.2 SMART Goals and Objectives 
+
+		2.4.2 SWOT Analysis           
+		2.4.3 Relevant Criteria  
+
+		2.4.4 Perform Root Cause Analysis on the Situation           
+			2.4.4.1 Five Whys          
+			2.4.4.2 Cause-and-Effect Diagrams    
+
+		2.4.5 Determine Required Capabilities Needed to Address the Situation 
+			2.4.5.1 Capability Table           
+			2.4.5.2 Affinity Diagram          
+			2.4.5.3 Benchmarking       
+			2.4.6 Assess Current Capabilities of the Organization            
+			2.4.7 Identify Gaps in Organizational Capabilities  
+
+	2.5 Recommend Action to Address Business Needs       
+		2.5.1 Include a High-Level Approach for Adding Capabilities          
+		2.5.2 Provide Alternative Options for Satisfying the Business Need          
+		2.5.3 Identify Constraints, Assumptions, and Risks for Each Option
+			2.5.3.1 Constraints        
+			2.5.3.2 Assumptions           
+			2.5.3.3 Risks  
+
+		2.5.4 Assess Feasibility and Organizational Impacts of Each Option
+			2.5.4.1 Operational Feasibility            
+			2.5.4.2 Technology/System Feasibility        
+			2.5.4.3 Cost-Effectiveness Feasibility         
+			2.5.4.4 Time Feasibility          
+			2.5.4.5 Assess Factors   
+
+		2.5.5 Recommend the Most Viable Option          
+			2.5.5.1 Weighted Ranking   
+
+		2.5.6 Conduct Cost-Benefit Analysis for Recommended Option    
+			2.5.6.1 Payback Period (PBP)       
+			2.5.6.2 Return on Investment (ROI)    
+			2.5.6.3 Internal Rate of Return (IRR)    
+			2.5.6.4 Net Present Value (NPV)  
+
+	2.6 Assemble the Business Case        
+		2.6.1 Value of the Business Case            .

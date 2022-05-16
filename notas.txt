@@ -1,1 +1,53 @@
 notas.txt
+
+NEEDS ASSESSMENT
+2.1 Overview of this Section
+A needs assessment consists of the business analysis work that is conducted in order to analyze a current business problem or opportunity. It is used to assess the current internal and external environments and current capabilities of the organization in order to determine the viable solution options that, when pursued, would help the organization meet the desired future state. This section of the practice guide offers a comprehensive approach for assessing business needs and identifying high-level solutions to address them. It provides ways to think about, learn about, discover, and articulate business problems and opportunities. Thinking through business problems and opportunities with stakeholders is important for all programs and projects; the degree to which a needs assessment is formally documented depends upon organizational and, possibly, regulatory constraints.
+
+
+
+Manuales para emprendedores y empresarios:
+
+    Cómo elaborar un plan de marketing: Ofrece una visión íntegra del marketing como concepto y como herramienta de trabajo en la gestión diaria de la empresa.
+
+    Cómo realizar un estudio de mercado: Explica el proceso que se debe seguir en la elaboración de un estudio de mercado, combinando la información teórica con un ejemplo práctico.
+
+    Cómo aplicar el merchandising en el establecimiento: Presenta los beneficios y las características principales del merchandising, así como la forma de aplicarlo y rentabilizarlo en un pequeño establecimiento comercial.
+
+    Cómo utilizar Internet para mi negocio: Explica como emplear internet en el negocio para mejorar la calidad del servicio e incrementar los beneficios.
+
+    Innovación empresarial: Expone los procedimientos habituales de gestión de la innovación y su aplicación en el funcionamiento del negocio.
+
+    Cómo valorar un proyecto de inversión: Presenta los métodos y herramientas que permiten analizar un proyecto de inversión o un nuevo negocio, en términos de rentabilidad.
+
+    Cómo convertir mi empresa en exportadora: Recopila las pautas a seguir para la introducción de una empresa en la exportación. Se presentan casos prácticos para facilitar la comprensión y aplicación de los conceptos teóricos.
+
+    Cómo gestionar las ventas: Expone una serie de consejos para realizar una correcta gestión de la totalidad del proceso de venta en la empresa: la dirección comercial, la estrategia comercial, el departamento de ventas, la gestión de clientes y técnicas de venta.
+
+    Cómo elaborar el cuadro de mando: Realiza una aproximación al concepto del cuadro de mando integral y a la importancia que puede tener para la empresa, definiendo con ejemplos cuál es su aplicación práctica y como debe implantarse en una organización.
+
+    Cómo elaborar el plan de comunicación: Recoge los principales ámbitos de la comunicación dentro de la empresa mostrando las herramientas y estrategias disponibles para su correcta gestión hacia el interior y el exterior de la empresa.
+
+    Cómo gestionar la tesorería: Realiza una aproximación a las tareas del tesorero de una empresa, principalmente referidas a la previsión de las salidas y entradas de fondos, así como a la selección de los medios que permiten alcanzar el equilibrio de la tesorería.
+
+    Cómo calcular costes y elaborar presupuestos: Ayuda a comprender los distintos elementos que conforman el coste unitario total de los productos o servicios y a fijar precios reales y adecuados al mercado. También da pautas para la elaboración de un presupuesto.
+
+    Cómo crear una marca: Ofrece una visión de lo que abarca hoy una marca a través de un esquema organizado e intuitivo de cuáles son los pasos que hay que seguir para construir una marca poderosa.
+
+    Dirección estratégica empresarial: Este manual es una introducción a las cinco áreas básicas de gestión de la empresa: Dirección estratégica, Dirección de marketing y comercial, Dirección de operaciones, Dirección de control y gestión.
+
+    Guía básica de financiación: Describe los principales instrumentos financieros del mercado, mostrando las características básicas y el uso más idóneo en función de las necesidades de cada proyecto de inversión o gasto.
+
+    Diagnóstico financiero de la empresa: Ofrece una metodología e instrumentos de interpretación y análisis de la información económica y financiera de la empresa.
+
+    Negociación bancaria: Muestra pautas para afrontar el proceso de negociaciones, comentando que el elementos valoran las entidades financieras al estudiar las distintas operaciones.
+
+    Instrumentos financieros para la internacionalización de la empresa: Explican de una forma sencilla los instrumentos financieros más utilizados en operaciones internacionales.
+
+    Conceptos jurídicos básicos: Expone los conocimientos básicos para que empresarios y autónomos puedan conocer y comprender los aspectos jurídicos que condicionan la gestión interna de la empresa y sus relaciones con los trabajadores.
+
+    Planificación y gestión de los recursos humanos: Contiene aportaciones teóricas y prácticas que hacen referencia a la planificación y gestión del personal en la empresa, teniendo en cuenta el aprendizaje de técnicas de selección, motivación, administración y retribución del equipo humano que la integra.
+
+    Cómo presentar un proyecto en público: Una presentación empresarial puede tener como finalidad persuadir a la audiencia para que financie un proyecto, compre un producto o servicio, participe en el proyecto... etc. Explicamos los elementos que forman parte de una buena presentación: Medios, fases y técnicas básicas.
+
+Como puedes ver, se trata de una colección muy completa. Esperamos que estos manuales te sean de mucha utilidad para aplicar en tus proyectos empresariales. Recuerda dejar un comentario de agradecimiento para BIC Galicia por tan excelente material que comparten en su plataforma.

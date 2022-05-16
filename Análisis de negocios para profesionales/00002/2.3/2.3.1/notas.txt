@@ -1,0 +1,76 @@
+2.3.1 Identify Stakeholders
+Stakeholder identification is conducted as part of the needs assessment to assess which stakeholders are
+impacted by the area under analysis. A stakeholder is an individual, group, or organization that may affect, be
+affected by, or perceive itself to be affected by a decision, activity, or outcome of a program or project.
+For example, when an organization wants to take advantage of a new technology or plans to automate current
+manual processes, stakeholder identification is performed to identify who will be impacted by the changes. There
+are various ways to locate stakeholders. Some possible methods are described in Section 3 on Business Analysis
+Planning, where this topic is presented in more depth.
+During needs analysis, it is helpful to identify the following stakeholders:
+• Sponsor who is initiating and responsible for the project,
+• Stakeholders who will benefit from an improved program or project,
+• Stakeholders who will articulate and support the financial or other benefits of a solution,
+• Stakeholders who will use the solution,
+• Stakeholders whose role and/or activities performed may change as a result of the solution,
+• Stakeholders who may regulate or otherwise constrain part or all of a potential solution,
+• Stakeholders who will implement the solution, and
+• Stakeholders who will support the solution.
+
+****
+The affected stakeholders for a needs assessment can be categorized into one of four categories using a
+responsibility assignment matrix such as a RACI model:
+
+
+• R—Responsible. Person performing the needs assessment,
+• A—Accountable. Person(s) who approves the needs assessment, including the business case, when
+warranted,
+• C—Consult. Person or group to be consulted for input to understand the current problem or opportunity,
+and
+• I—Inform. Person or group who will receive the results of the needs assessment.
+
+Example—Consider an insurance company that is interested in reducing the processing times and costs
+for automobile and homeowner claims. Initially, the organization understands the solution may impact a
+number of stakeholders across the company. To better understand who to involve in the needs assessment
+phase, the business analyst develops a RACI matrix to determine the roles and levels of responsibility.
+Table 2-1 shows an example of a partial stakeholder list for the insurance company. Other possible
+stakeholders might be the claims operations manager, claims examiners, partners, and suppliers.
+Table 2-1. Example RACI for Assessing Business Need
+Sponsor
+Product
+Manager
+Business
+Analyst
+Product
+Development
+Team
+Mobile
+Technical
+Team
+Project
+Manager
+Identify problem or opportunity A C R C C
+Assess current state of the
+organization A I R C C
+Recommend action I A R C C C
+Prepare business case I A R C I I
+Collaboration Point—Both project managers and business analysts have an interest in stakeholder
+identification and RACI analysis. While the project manager is concerned about analyzing the roles across
+the project, business analysts may perform their analysis to a lower level of detail or may focus on one
+specific area, such as a needs assessment or requirements elicitation. Each may lend support to the other
+and work together to perform this work. It is important to ensure efforts are not duplicated.
+
+
+
+2.3.1 Identificar partes interesadas
+La identificación de las partes interesadas se realiza como parte de la evaluación de necesidades para evaluar qué partes interesadas se ven afectadas por el área bajo análisis. Una parte interesada es un individuo, grupo u organización que puede afectar, verse afectado o percibirse a sí mismo afectado por una decisión, actividad o resultado de un programa o proyecto. Por ejemplo, cuando una organización quiere aprovechar una nueva tecnología o planes para automatizar los procesos manuales actuales, la identificación de las partes interesadas se realiza para identificar quién se verá afectado por los cambios. Hay varias formas de localizar a las partes interesadas. Algunos métodos posibles se describen en la Sección 3 sobre el análisis comercial.
+Planificación, donde este tema se presenta con más profundidad. Durante el análisis de necesidades, es útil identificar a los siguientes interesados:
+
+	Patrocinador que está iniciando y responsable del proyecto, Las partes interesadas que se beneficiarán de un programa o proyecto mejorado, Las partes interesadas que articularán y apoyarán los beneficios financieros u otros de una solución, Las partes interesadas que usen la solución, Las partes interesadas cuyo papel y/o actividades realizadas pueden cambiar como resultado de la solución, Las partes interesadas que pueden regular o restringir la parte o la totalidad de una solución potencial, partes interesadas que implementarán la solución y Las partes interesadas que apoyarán la solución.
+
+Las partes interesadas afectadas para una evaluación de necesidades se pueden clasificar en una de las cuatro categorías utilizando una matriz de asignación de responsabilidad, como un modelo RACI:
+
+
+	• R—Responsible. 	Persona que realiza la evaluación de necesidades.
+	• A—Accountable. 	Persona (s) que aprueba la evaluación de necesidades. incluido el caso de negocios, cuando está justificado.
+	• C—Consult. 		Persona o grupo a ser consultado para obtener información para comprender el problema u oportunidad actual.
+	• I—Inform. 		Persona o grupo que recibirá los resultados de la evaluación de necesidades.
