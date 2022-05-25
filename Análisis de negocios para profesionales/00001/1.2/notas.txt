@@ -1,0 +1,15 @@
+1.2 Need for this Practice Guide
+When business analysis is properly accounted for and executed on programs and projects, the following benefits are achieved:
+• High-quality requirements are produced resulting in the development of products and services that meet customer expectations.
+• Stakeholders are more engaged in the process and buy-in is more readily achieved.
+• Projects are more likely to be delivered on time, within scope, and within budget.
+
+• Implemented solutions deliver business value and meet stakeholder needs; and
+• Organizations develop competencies in business analysis that are reusable for future projects. For many organizations, effective business analysis is not an integral part of their project work. As a result, projects are not delivering the intended business value. In 2014, PMI reported the following:
+• In the past 12 months, 64% of the completed projects successfully met their original goals and business intent.
+• In the past 12 months, 16% of projects that started were deemed failures.
+• “Inaccurate requirements gathering” was reported by 37% of organizations as a primary cause of project failure.
+• Poor requirements management practices are the second leading cause of project failure, second only to changing organization priorities. 
+
+
+This research clearly shows that organizations continue to experience project issues associated with poor performance of requirements-related activities. Requirements management accounts for a significant portion of the work performed within business analysis. Organizations that have mature business analysis practices in place today are dramatically improving the probability of project success, but those that do not are seeing the costly effects. PMI has made a commitment to address the project problems identified through this research. This practice guide has been developed to help the industry address the project-related issues associated with requirements and business analysis. Through the development of this practice guide and through the release of other PMI products and services in business analysis, PMI is providing the resources needed to help organizations successfully complete more of their critical initiatives. PMI’s business analysis initiatives are based on extensive market research. This research provides a better understanding of how to improve business analysis practices on programs and projects, which will lead to more tangible business outcomes and help organizations exceed customer expectations.

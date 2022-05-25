@@ -1,0 +1,12 @@
+Planificación de análisis de negocios
+3.1 Descripción general de esta sección
+Dentro del análisis comercial, la planificación consiste en las actividades que se realizan para garantizar que el enfoque de análisis comercial óptimo se seleccione para el proyecto y que:
+• Las partes interesadas se identifican y analizan a fondo;
+• Las actividades de análisis de negocios y los entregables se definen y acordan;
+• Los procesos que se utilizarán para validar, verificar y aprobar los requisitos y soluciones son
+aceptable para las partes interesadas clave;
+• El proceso para proponer cambios a los requisitos se define y entiende.
+• Las partes interesadas clave son conscientes y apoyan las actividades y los compromisos de tiempo necesarios para completar el esfuerzo de requisitos.
+
+El enfoque de análisis comercial es simplemente el método que el analista de negocios utiliza al administrar y realizar las actividades de análisis de negocios en el proyecto. Como se describe más adelante en esta sección, el enfoque se describe en el plan de análisis de negocios.
+La forma en que se realiza la planificación del análisis comercial depende en gran medida del ciclo de vida seleccionado del proyecto; Por lo tanto, cuando una actividad de planificación se realiza de manera diferente en los ciclos de vida o no se realiza en absoluto, las diferencias se observan en esta sección. No existe un enfoque único para la planificación de análisis de negocios que funcione para cada proyecto, por lo que, en última instancia, el analista de negocios debe comprender el contexto y las características del proyecto lo suficiente como para garantizar que las actividades de planificación tengan un tamaño suficiente para la situación. Esta sección describe las cosas importantes en las que uno debe pensar al definir el enfoque de análisis de negocios. El nivel de pensamiento descrito en esta sección se aplica a todos los programas y proyectos si se realiza a la vez a la vanguardia del proyecto o durante todo el proyecto, independientemente del grado de formalidad utilizado para documentar el plan de análisis de negocios.

@@ -1,0 +1,10 @@
+3.2.2 Business Analysis Planning and Project Management Planning
+
+Business analysis is a critical portion of the overall project activities. The work involved to perform a successful business analysis process is detailed and the number of activities conducted can be quite extensive. Program and project success is dependent on adequate business analysis; therefore, attention should be given to ensure that activities are well thought out and meet the needs of the program or project and the stakeholders. Business analysis planning and scheduling is not performed independent of project management scheduling activities. It is a best practice to have the project manager and business analyst working closely together while the business analysis approach and plan is formulated. Business analysts will develop a work plan to cover the activities they are responsible for performing; however, the work plan should be integrated into the overall project
+management plan managed by the project manager.
+
+
+3.2.2 Planificación de planificación de análisis de negocios y gestión de proyectos
+
+El análisis comercial es una parte crítica de las actividades generales del proyecto. Se detalla el trabajo involucrado para realizar un proceso de análisis comercial exitoso y el número de actividades realizadas puede ser bastante extensa. El éxito del programa y el proyecto depende de un análisis comercial adecuado; Por lo tanto, se debe prestar atención para garantizar que las actividades estén bien pensadas y satisfacer las necesidades del programa o proyecto y las partes interesadas. La planificación y la programación de análisis de negocios no se realizan independientemente de las actividades de programación de gestión de proyectos. Es una mejor práctica que el gerente de proyectos y el analista de negocios trabajen en estrecha colaboración mientras se formula el enfoque y el plan de análisis comercial. Los analistas de negocios desarrollarán un plan de trabajo para cubrir las actividades que son responsables de realizar; Sin embargo, el plan de trabajo debe integrarse en el proyecto general
+Plan de gestión administrado por el gerente del proyecto.

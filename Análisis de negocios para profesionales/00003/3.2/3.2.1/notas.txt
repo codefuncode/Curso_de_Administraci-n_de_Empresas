@@ -1,0 +1,26 @@
+3.2.1 Rationale
+Because requirements are the foundation from which the project is based and a key contributor to project success, the sponsor and project manager should ensure that a sufficient level of business analysis planning is conducted. Many projects are initiated with tight timelines that place pressure to address the tactical activities before the plan. The project team should avoid the urge to rush into requirements elicitation without first understanding the expectations for the business analysis process and the roadmap for pursuing the work.
+
+Business analysis planning achieves the following:
+• Sets expectations with the sponsor, project team, and key stakeholders as to the business analysis activities that will be performed;
+• Ensures that roles are identified, understood, and communicated to everyone participating in the business analysis process;
+• Achieves buy-in and support for the business analysis process before work begins;
+• Provides context to support estimation of the business analysis activities; and
+• Produces a more efficiently run business analysis process, because activities are not missed or excessively performed.
+
+While planning provides many benefits and reduces a number of requirements-related risks, planning work should be judiciously performed to ensure the process is not too heavy or formal for the needs of the program or project. It may not be necessary or advisable to plan entirely up-front and in great detail on every type of program or project. When using a predictive life cycle, planning is performed up-front prior to elicitation. In adaptive life cycles, some planning is performed up-front and plans are adapted or evolve over the course of the program or project. Too much planning can be counterproductive, therefore the business analyst needs to plan a sufficient level of detail to address the specific needs of the project such as the size, complexity, and risk level.
+
+//////////////////////////////////////////////////////////////////////////////////////////
+
+3.2.1 Justificación
+Debido a que los requisitos son la base de la cual se basa el proyecto y un contribuyente clave para el éxito del proyecto, el patrocinador y el gerente del proyecto deben garantizar que se realice un nivel suficiente de planificación de análisis de negocios. Muchos proyectos se inician con plazos estrictos que ejercen presión para abordar las actividades tácticas antes del plan. El equipo del proyecto debe evitar el impulso de apresurarse a la obtención de requisitos sin comprender primero las expectativas del proceso de análisis de negocios y la hoja de ruta para realizar el trabajo.
+
+La planificación de análisis de negocios logra lo siguiente:
+• Establece expectativas con el patrocinador, el equipo del proyecto y las partes interesadas clave en cuanto a las actividades de análisis de negocios que se realizarán;
+• Asegura que los roles se identifiquen, entiendan y se comuniquen a todos los que participan en el proceso de análisis de negocios;
+• logra la compra y el soporte para el proceso de análisis comercial antes de que comience el trabajo;
+• Proporciona contexto para apoyar la estimación de las actividades de análisis de negocios; y
+• Produce un proceso de análisis comercial más eficiente, porque las actividades no se pierden ni se realizan en exceso.
+
+
+Si bien la planificación proporciona muchos beneficios y reduce una serie de riesgos relacionados con los requisitos, el trabajo de planificación debe realizarse juiciosamente para garantizar que el proceso no sea demasiado pesado o formal para las necesidades del programa o proyecto. Puede que no sea necesario o aconsejable planificar completamente por adelantado y con gran detalle sobre cada tipo de programa o proyecto. Al usar un ciclo de vida predictivo, la planificación se realiza por adelantado antes de la obtención. En los ciclos de vida adaptativos, se realiza parte de la planificación por adelantado y los planes se adaptan o evolucionan en el transcurso del programa o proyecto. Demasiada planificación puede ser contraproducente, por lo tanto, el analista de negocios necesita planificar un nivel de detalle suficiente para abordar las necesidades específicas del proyecto, como el tamaño, la complejidad y el nivel de riesgo.
