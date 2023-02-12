@@ -1,0 +1,12 @@
+1.5 ¿Qué es el análisis de negocios?
+El análisis comercial es la aplicación de conocimiento, habilidades, herramientas y técnicas para:
+
+• Determinar problemas e identificar las necesidades comerciales.
+• identificar y recomendar soluciones viables para satisfacer esas necesidades.
+• obtener, documentar y administrar los requisitos de las partes interesadas para cumplir con los objetivos comerciales y del proyecto.
+• Facilitar la implementación exitosa del producto, servicio o resultado final del programa o proyecto.
+
+
+En resumen, el análisis comercial es el conjunto de actividades realizadas para identificar las necesidades comerciales y recomendar soluciones relevantes; y para obtener, documentar y administrar los requisitos. Esta definición amplia sugiere que el análisis comercial implica un esfuerzo en una variedad de dominios: desde la identificación de las necesidades comerciales hasta la implementación de la solución. Dentro de cada uno de estos dominios, hay una serie de tareas de apoyo. Cada una de estas tareas se define y explora dentro de esta guía de práctica. Las tareas refinan la definición amplia y proporcionan información específica sobre otros aspectos importantes del análisis comercial, como facilitar la identificación de problemas u análisis de oportunidades para la inversión de cartera, comprender el contexto ambiental comercial y las restricciones, analizar los requisitos, verificar los requisitos, evaluar soluciones, etc. Juntos, los dominios y las tareas que se realizan dentro de ellos proporcionan una definición exhaustiva de análisis de negocios.
+
+El análisis comercial se realiza en apoyo de muchas iniciativas comerciales, incluidos programas y proyectos, así como actividades operativas continuas, como monitoreo, modelado y pronósticos. Si bien el enfoque principal de esta guía de práctica es el análisis comercial en apoyo de programas y proyectos, las prácticas en este documento se aplican donde se realice el análisis comercial.
